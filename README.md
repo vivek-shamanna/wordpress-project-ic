@@ -5,4 +5,3 @@ Composer build process. Replace this with a description of your site. See `upstr
 on customizing this upstream and instructions on how to use it to create individual sites.
 
 For more information and detailed installation guides, please visit the Integrated Composer Pantheon documentation: https://pantheon.io/docs/integrated-composer
-Test update to check OTTO-2152
